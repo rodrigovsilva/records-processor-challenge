@@ -102,13 +102,14 @@ After running the tests, the application will generate a report with testing res
 ```shell
 [INFO] Results:
 [INFO] 
-[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 22, Failures: 0, Errors: 0, Skipped: 0
 [INFO] 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  1.229 s
-[INFO] Finished at: 2024-06-26T14:48:50+02:00
+[INFO] Total time:  1.891 s
+[INFO] Finished at: 2024-09-03T22:55:23+02:00
+[INFO] ------------------------------------------------------------------------
 ```
 
 #### Running the application
